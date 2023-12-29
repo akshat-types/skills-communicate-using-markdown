@@ -7,3 +7,7 @@
 
 
 This is part of a course to get me introduced to Markdown. 
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Adding Image to file
